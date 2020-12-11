@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestService" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-11T10:05:09" hostname="MBP-Egor" time="0.696">
+  <properties/>
+  <testcase name="testAddCardByIdNegativeScenario" classname="TestService" time="0.257"/>
+  <testcase name="testGetCardsListPositiveScenario" classname="TestService" time="0.237"/>
+  <testcase name="testAddBalancePositiveScenario" classname="TestService" time="0.098"/>
+  <testcase name="testAddCardByIdPositiveScenario" classname="TestService" time="0.064"/>
+  <testcase name="testGetBalancePositiveScenario" classname="TestService" time="0.037"/>
+  <system-out><![CDATA[СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+СОЕДИНЕНИЕ УСТАНОВЛЕНО
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
